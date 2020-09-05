@@ -1,7 +1,7 @@
 
 ## Hello! I'm Jason! 👋
 
-I'm a full stack web app developer from Indonesia & I'm in my last year of studying for a Computer Science!
+I'm a full stack web app developer from Indonesia & I'm in my last year of studying for a Computer Science Degree!
 - 🌱 I’m currently learning Golang ... when I have time <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="26">
 - 💬 Ask me about anything.
 ## 💻 Favorite stack 
