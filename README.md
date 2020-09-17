@@ -4,6 +4,9 @@
 I'm a full stack web app developer from Indonesia & I'm in my last year of studying for a Computer Science Degree!
 - 🌱 I’m currently learning Golang ... when I have time <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="26">
 - 💬 Ask me about anything.
+- 💻 [My Hackerrank](https://www.hackerrank.com/jasonnchann24)
+- 📚 [My freeCodeCamp](https://www.freecodecamp.org/jchann24)
+
 ## 💻 Favorite stack 
 
 | [<img src="https://laravel.com/img/logotype.min.svg" width="100">](https://laravel.com) |  [<img src="https://nuxtjs.org/logos/nuxt-emoji.png" width="50">](https://nuxtjs.org)  | [<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="75">](https://mysql.com)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/1200px-Apache_HTTP_server_logo_%282016%29.svg.png" width="114">](https://httpd.apache.org/)  |
