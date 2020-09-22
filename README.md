@@ -6,6 +6,7 @@ I'm a full stack web app developer from Indonesia & I'm in my last year of study
 - 💬 Ask me about anything.
 - 💻 [My Hackerrank](https://www.hackerrank.com/jasonnchann24)
 - 📚 [My freeCodeCamp](https://www.freecodecamp.org/jchann24)
+- 🌱 [My simple portfolio](https://jchann24.github.io/personal-portfolio/)
 
 ## 💻 Favorite stack 
 
