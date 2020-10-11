@@ -1,6 +1,8 @@
 
 ## Hello! I'm Jason! 👋
 
+![Jchann24's github stats](https://github-readme-stats.vercel.app/api?username=Jchann24&count_private=true&show_icons=true&theme=vue-dark)
+
 I'm a full stack web app developer from Indonesia & I'm in my last year of studying for a Computer Science Degree!
 - 🌱 I’m currently learning Golang ... when I have time <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="26">
 - 💬 Ask me about anything.
@@ -25,9 +27,5 @@ I'm a full stack web app developer from Indonesia & I'm in my last year of study
 ## :blue_book: Others :smirk:
 [<img src="https://www.pngitem.com/pimgs/m/104-1041912_netflix-logo-nginx-logo-svg-hd-png-download.png" width="100">](https://www.nginx.com/) | [<img src="https://vuejs.org/images/logo.png" width="50">](https://vuejs.org)  | [<img src="https://graphql.org/img/logo.svg" width="50">](https://graphql.org)  |   [<img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width="50">](https://djangoproject.com)
 |:-:|:-:|:-:|:-:|
-
-<br/>
-
-![Jchann24's github stats](https://github-readme-stats.vercel.app/api?username=Jchann24&count_private=true&show_icons=true&theme=vue-dark)
 
 
