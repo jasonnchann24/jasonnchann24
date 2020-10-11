@@ -1,6 +1,8 @@
 
 ## Hello! I'm Jason! 👋
 
+[<img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" width="350">](https://hacktoberfest.digitalocean.com/)
+
 ![Jchann24's github stats](https://github-readme-stats.vercel.app/api?username=Jchann24&count_private=true&show_icons=true&theme=vue-dark)
 
 I'm a full stack web app developer from Indonesia & I'm in my last year of studying for a Computer Science Degree!
