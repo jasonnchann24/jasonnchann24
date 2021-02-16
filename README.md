@@ -1,8 +1,6 @@
 
 ## Hello! I'm Jason! 👋
 
-[<img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" width="350">](https://hacktoberfest.digitalocean.com/)
-
 ![Jchann24's github stats](https://github-readme-stats.vercel.app/api?username=Jchann24&count_private=true&show_icons=true&theme=vue-dark)
 
 I'm a full stack web app developer from Indonesia & I'm in my last year of studying for a Computer Science Degree!
@@ -11,6 +9,10 @@ I'm a full stack web app developer from Indonesia & I'm in my last year of study
 - 💻 [My Hackerrank](https://www.hackerrank.com/jasonnchann24)
 - 📚 [My freeCodeCamp](https://www.freecodecamp.org/jchann24)
 - 🌱 [My simple portfolio](https://jchann24.github.io/personal-portfolio/)
+
+## Own Project
+| [<img src="https://github.com/Jchann24/kodektif/raw/dev/static/logo/logo_kodektif_bg.svg" width="50">](https://github.com/Jchann24/kodektif) |
+|---|
 
 ## 💻 Favorite stack 
 
@@ -26,8 +28,8 @@ I'm a full stack web app developer from Indonesia & I'm in my last year of study
 | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35">](https://www.linkedin.com/in/jason-chan-44b828190/)  |  [<img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" width="35">](https://instagram.com/jchann24) |
 |:-:|---|
 
-## :blue_book: Others :smirk:
-[<img src="https://www.pngitem.com/pimgs/m/104-1041912_netflix-logo-nginx-logo-svg-hd-png-download.png" width="100">](https://www.nginx.com/) | [<img src="https://vuejs.org/images/logo.png" width="50">](https://vuejs.org)  | [<img src="https://graphql.org/img/logo.svg" width="50">](https://graphql.org)  |   [<img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width="50">](https://djangoproject.com)
-|:-:|:-:|:-:|:-:|
+## :blue_book: Other Tools
+[<img src="https://www.pngitem.com/pimgs/m/104-1041912_netflix-logo-nginx-logo-svg-hd-png-download.png" width="100">](https://www.nginx.com/) | [<img src="https://vuejs.org/images/logo.png" width="50">](https://vuejs.org)  | [<img src="https://graphql.org/img/logo.svg" width="50">](https://graphql.org)  |   [<img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width="50">](https://djangoproject.com) | [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50">](https://docker.com)
+|:-:|:-:|:-:|:-:|:-:|
 
 
