@@ -25,7 +25,7 @@ Last year of studying for a Computer Science Degree.
 |:-:|---|
 
 ## Other Tools
-[<img src="https://www.pngitem.com/pimgs/m/104-1041912_netflix-logo-nginx-logo-svg-hd-png-download.png" width="100">](https://www.nginx.com/) | [<img src="https://vuejs.org/images/logo.png" width="50">](https://vuejs.org)  | [<img src="https://graphql.org/img/logo.svg" width="50">](https://graphql.org)  |   [<img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width="50">](https://djangoproject.com) | [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50">](https://docker.com)
+[<img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="100">](https://www.nginx.com/) | [<img src="https://vuejs.org/images/logo.png" width="50">](https://vuejs.org)  | [<img src="https://graphql.org/img/logo.svg" width="50">](https://graphql.org)  |   [<img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width="50">](https://djangoproject.com) | [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50">](https://docker.com)
 |:-:|:-:|:-:|:-:|:-:|
 
 
