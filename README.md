@@ -1,4 +1,4 @@
-![Jchann24's github stats](https://github-readme-stats-jchann24.vercel.app/api?username=Jchann24&count_private=true&show_icons=true&theme=shades-of-purple)
+![Jchann24's github stats](https://github-readme-stats.vercel.app/api?username=jasonnchann24&count_private=true&show_icons=true&theme=shades-of-purple)
 
 Last year of studying for a Computer Science Degree.
 - Currently learning Golang. When I'm free. <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="26">
