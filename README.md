@@ -1,13 +1,13 @@
-![Jchann24's github stats](https://github-readme-stats.vercel.app/api?username=jasonnchann24&count_private=true&show_icons=true&theme=shades-of-purple)
+![jasonnchann24's github stats](https://github-readme-stats.vercel.app/api?username=jasonnchann24&count_private=true&show_icons=true&theme=shades-of-purple)
 
 Last year of studying for a Computer Science Degree.
 - Currently learning Golang. When I'm free. <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="26">
 - [Hackerrank](https://www.hackerrank.com/jasonnchann24)
-- [freeCodeCamp](https://www.freecodecamp.org/jchann24)
-- [simple portfolio](https://jchann24.github.io/personal-portfolio/)
+- [freeCodeCamp](https://www.freecodecamp.org/jasonnchann24)
+- [simple portfolio](https://jasonnchann24.github.io/personal-portfolio/)
 
 ## Own Project
-| [<img src="https://github.com/Jchann24/kodektif/raw/dev/static/logo/logo_kodektif_bg.svg" width="50">](https://github.com/Jchann24/kodektif) |
+| [<img src="https://github.com/jasonnchann24/kodektif/raw/dev/static/logo/logo_kodektif_bg.svg" width="50">](https://github.com/jasonnchann24/kodektif) |
 |---|
 
 ## Favorite stack 
@@ -21,7 +21,7 @@ Last year of studying for a Computer Science Degree.
 
 ## Contact
 	
-| [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35">](https://www.linkedin.com/in/jason-chan-44b828190/)  |  [<img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" width="35">](https://instagram.com/jchann24) |
+| [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35">](https://www.linkedin.com/in/jason-chan-44b828190/)  |  [<img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" width="35">](https://instagram.com/jasonnchann24) |
 |:-:|---|
 
 ## Other Tools
