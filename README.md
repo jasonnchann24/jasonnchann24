@@ -1,7 +1,5 @@
 ![jasonnchann24's github stats](https://github-readme-stats.vercel.app/api?username=jasonnchann24&count_private=true&show_icons=true&theme=shades-of-purple)
 
-Last year of studying for a Computer Science Degree.
-- Currently learning Golang. When I'm free. <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="26">
 - [Hackerrank](https://www.hackerrank.com/jasonnchann24)
 - [freeCodeCamp](https://www.freecodecamp.org/jasonnchann24)
 - [simple portfolio](https://jasonnchann24.github.io/personal-portfolio/)
@@ -25,7 +23,7 @@ Last year of studying for a Computer Science Degree.
 |:-:|---|
 
 ## Other Tools
-[<img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="100">](https://www.nginx.com/) | [<img src="https://vuejs.org/images/logo.png" width="50">](https://vuejs.org)  | [<img src="https://graphql.org/img/logo.svg" width="50">](https://graphql.org)  |   [<img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width="50">](https://djangoproject.com) | [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50">](https://docker.com)
-|:-:|:-:|:-:|:-:|:-:|
+[<img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="100">](https://www.nginx.com/) | [<img src="https://vuejs.org/images/logo.png" width="50">](https://vuejs.org)  | [<img src="https://graphql.org/img/logo.svg" width="50">](https://graphql.org)  |   [<img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width="50">](https://djangoproject.com) | [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50">](https://docker.com) | [<img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="50">](https://getbootstrap.com)
+|:-:|:-:|:-:|:-:|:-:|:--:|
 
 
