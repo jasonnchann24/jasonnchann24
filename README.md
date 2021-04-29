@@ -19,7 +19,7 @@
 
 ## Contact
 	
-| [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35">](https://www.linkedin.com/in/jason-chan-44b828190/)  |  [<img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" width="35">](https://instagram.com/jasonnchann24) |
+| [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35">](https://www.linkedin.com/in/nicholas-jason-44b828190/)  |  [<img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" width="35">](https://instagram.com/jasonnchann24) |
 |:-:|---|
 
 ## Other Tools
