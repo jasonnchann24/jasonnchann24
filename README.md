@@ -6,5 +6,5 @@
 
 ## Contact
 	
-| [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35">](https://www.linkedin.com/in/nicholas-jason-44b828190/)  |
+| [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35">](https://www.linkedin.com/in/nicholas-jason-44b828190/)  |
 |:-:|
