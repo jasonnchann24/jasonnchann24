@@ -4,7 +4,7 @@
 
 Software Engineer
 
-6 years of experience in end-to-end software development, with extensive use of Laravel and Nuxt.js as my primary stack. Currently focused on building AI-integrated applications in Python environment.
+6 years of experience in end-to-end software development, with extensive use of Laravel and Nuxt.js as my primary stack. Currently focused on building AI-integrated applications in Python, while trying to pick up Java again! ☕ 😬
 
 ☕ Fueling on Caffeine [@Codebrew](https://instagram.com/codebrew.idn)
 
